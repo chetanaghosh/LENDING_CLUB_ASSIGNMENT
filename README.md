@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-
+# LENDING CLUB CASE STUDY
+> Lending Club is one of the largest urban money lending clubs that specializes in lending various kinds of loans to customers. Their products include credit card laons, education loans, home loans and many more. Lenders decide whether to approve a loan application and also various factors like interest, term and loan amount.
+> This project aims at identifying potential risk factors that drive a defaulted loan application.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,42 +11,34 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- 
+- As a consumer finance company, lending club specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Lenders decide 1) whether to lend and 2) the terms of loan such as interest rate, monthly installment, tenure etc.
+- To identify variables that are strong indicators of default and potentially use the insights in approval/rejection decision-making.
+- LENDING CLUB LOANS DATASET (containing details of loan applications from 2007 to 2011)
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- From the data, we gathered that almost 15.6% of the loans were charged off, i.e, defaulted.
+- The driving factors for loan default were
+Interest Rate – 18% to 25%
+Annual Income – 1,500 to 25,000 
+Loan Amount – 25,000 to 35,000
+Loan Grade – D, E, F, G 
+Purpose – Small Business
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - version 1.0
+- Matplotlib - version 2.0
+- Seaborn - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was made by... Chetana Ghosh and Harsha Vardhan Digari
+- As Part of... Advanced Certification Programme in Machine Learning by UpGrad and IITB
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chetanaghosh] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
